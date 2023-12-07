@@ -1,0 +1,49 @@
+div {
+    background-color: #795c34;
+    width: 700px;
+    text-align: center;
+    
+    
+    
+}
+
+body {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 255px;
+    
+    
+}
+
+.info {
+    background-color: #231709;
+    color: aliceblue;
+    border-radius: 7px;
+    border: 1px solid black;
+    height: 25px;
+    width: fit-content;
+    padding: 5px;
+    margin-top: -11px;
+    margin-left: -6px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+
+}
+
+.info span {
+    border-left: 2px solid black;
+}
+
+
+code {
+    background-color: antiquewhite;
+    padding: 2px;
+    border-radius: 2px;
+    
+}
+
+spam {
+    text-align: center;
+}
